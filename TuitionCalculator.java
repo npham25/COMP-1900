@@ -5,7 +5,7 @@ public class TuitionCalculator{
 		Scanner input = new Scanner(System.in);
 
 		System.out.print("How many total hours are you taking? ");
-		int H = input.nextInt(); //toal hours
+		int H = input.nextInt(); //total hours
 
 		System.out.print("How many of those hours are from engineering/science classes? ");
 		int ES = input.nextInt(); //Eng/Sci hours
