@@ -4,7 +4,7 @@ public class MovieTickets {
 	public static void main(String[] args){
 		 Scanner input = new Scanner(System.in);
 
-		System.out.print("What time is our showing? (hhmm in 24-hour) ");
+		System.out.print("What time is your showing? (hhmm in 24-hour) ");
 		double T = input.nextDouble();
 		
 		String hour;
